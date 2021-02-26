@@ -19,12 +19,6 @@ Para instalar las dependencias debes ubicarte dentro de tu carpeta spabtcmxn y e
 
 #### Ejecutar el proyecto
 
-Para poder ejecutar este proyecto necesitaras validar que tienes instalado Node>=6 y npm>=5.2, posteriormente dentro de tu carpeta spabtcmxn en tu terminal de comandos introduce el siguiente comando:
-
-`$ npm start`
-
-#### Ejecutar el proyecto
-
 Para poder ejecutar este proyecto necesitaras validar que tienes instalado Node>=6 y npm>=5.2, posteriormente dentro de tu carpeta spabtc, introduce el siguiente comando en tu terminal de comandos:
 
 `$ npm start`

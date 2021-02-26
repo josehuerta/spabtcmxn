@@ -2,31 +2,26 @@
 
 #### Introducción
 
-<<<<<<< HEAD
 Esta api te permitira mostrar el listado de los precios del bitcoin a lo largo de las últimas 24 horas, última semana, último mes, último año o en un rango de fechas especifico.
-=======
-Esta spa te permitira mostrar el listado de los precios del bitcoin a lo largo de las últimas 24 horas, última semana, último mes, último año o en un rango de fechas especifico.
-
-> > > > > > > 08c4029ebbce7702c37c7f6412103b8e7faedff8
 
 #### Clonar el proyecto
 
 **Para clonar el proyecto ejecuta los siguientes comandos en tu terminal de comandos (en el orden que se mencionan): **
 
-`$ git clone https://github.com/josehuerta/spabtc.git`
+`$ git clone https://github.com/josehuerta/spabtcmxn.git`
 
-`$ cd spabtc`
+`$ cd spabtcmxn`
 
 #### Instalación de dependencias
 
-Para instalar las dependencias debes ubicarte dentro de tu carpeta spabtc y ejecutar el siguiente comando:
-<<<<<<< HEAD
+Para instalar las dependencias debes ubicarte dentro de tu carpeta spabtcmxn y ejecutar el siguiente comando:
 `$ npm install`
 
 #### Ejecutar el proyecto
 
-Para poder ejecutar este proyecto necesitaras validar que tienes instalado Node>=6 y npm>=5.2, posteriormente dentro de tu carpeta spabtc, introduce el siguiente comando en tu terminal de comandos:
-`$ npm run start`
+Para poder ejecutar este proyecto necesitaras validar que tienes instalado Node>=6 y npm>=5.2, posteriormente dentro de tu carpeta spabtcmxn en tu terminal de comandos introduce el siguiente comando:
+
+`$ npm start`
 
 #### Documentacion
 
@@ -40,7 +35,13 @@ Para poder ejecutar este proyecto necesitaras validar que tienes instalado Node>
 
 `$ npm start`
 
+Por default la aplicacion se abrira en el puerto 3000 de estar ocupado este, te preguntara si deseas abrir la aplicacion en otro puerto
+
+La url de inicio se encuentra en <tu-host>/home 
+
+
 #### Documentacion
 
-> > > > > > > 08c4029ebbce7702c37c7f6412103b8e7faedff8
-> > > > > > > La documentacion podras encontrar en la pagina /documentacion de la aplicación
+La documentacion podras encontrar en la pagina /documentacion de la aplicación
+
+
